@@ -1,5 +1,3 @@
-// src/lib/CardDeck.ts
-
 import Card from './Card';
 
 class CardDeck {
